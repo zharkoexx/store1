@@ -13,8 +13,7 @@ public class DatabaseConnection {
         try {
             Connection connection = DriverManager.getConnection(url, username, password);
             System.out.println("Connected to the database");
-            // Здесь вы можете выполнять операции с базой данных
-            connection.close(); // Закройте соединение, когда оно больше не нужно
+            connection.close();
         } catch (SQLException e) {
             e.printStackTrace();
         }

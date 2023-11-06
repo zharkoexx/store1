@@ -4,39 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42397034-f659-4614-8d2a-7cd621d32adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Observer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/DiscountNotificationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/DiscountObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/DiscountSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Registration/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Registration/CustomerRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Registration/RegistrationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/ClothingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/ClothingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/ClothingStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/InStockState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/OutOfStockState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/DiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/FivePercentDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/NoDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/SeasonalDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/TenPercentDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/ThirtyPercentDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/VolumeDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="42397034-f659-4614-8d2a-7cd621d32adb" name="Changes" comment="base">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d61eb32-4a74-4b7c-a52a-5c3719c754a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d61eb32-4a74-4b7c-a52a-5c3719c754a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d61eb32-4a74-4b7c-a52a-5c3719c754a6/storage_v2/_src_/database/clothes.SMymMw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d61eb32-4a74-4b7c-a52a-5c3719c754a6/storage_v2/_src_/database/clothes.SMymMw/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XZWbDcQHRgzy2x1vFE6SetQhqV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="base">
+      <created>1698821864692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698821864692</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42397034-f659-4614-8d2a-7cd621d32adb" name="Changes" comment="base" />
+      <created>1698837158661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698837158661</updated>
+      <workItem from="1698837161409" duration="1704000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base" />
+    <option name="LAST_COMMIT_MESSAGE" value="base" />
   </component>
 </project>
